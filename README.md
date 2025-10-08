@@ -1,2 +1,1 @@
-# laravel-filament-template
-Laravel + Filament base template
+# Laravel Filament Template
